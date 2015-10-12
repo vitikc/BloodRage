@@ -1,0 +1,10 @@
+name: BloodRage
+main: me.vitikc.bloodrage.BloodRage
+version: 1.0
+commands:
+    br:
+        description: Shows information about plugin
+        usage: /<command>
+    br info:
+        description: Blocks command
+        usage: /<command> command
